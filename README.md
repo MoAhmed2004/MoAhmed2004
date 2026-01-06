@@ -1,16 +1,61 @@
-## Hi there 👋
+# Hi there, I'm Mohamed Ahmed! 👋
+### 🎓 Computer Science Student | 🔴 Red Teaming Enthusiast | 🛡️ Cybersecurity
 
-<!--
-**MoAhmed2004/MoAhmed2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a senior Computer Science student specializing in **Cybersecurity**, with a strong focus on **Offensive Security (Red Teaming)** and **Penetration Testing**. I love building security tools with **Python** and exploring Network Security.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **Advanced Python Security Tools & Malware Analysis**.
+- 📚 I’m currently learning **Advanced Red Teaming Tactics & eJPTv2**.
+- 🛠️ I’m looking to collaborate on **Open Source Security Projects**.
+- 📍 Based in **Cairo, Egypt**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=MoAhmed2004&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+---
+
+### 💻 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <br>
+  <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-Use_with_Caution-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cryptography-Secure-blue?style=for-the-badge" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MoAhmed2004&show_icons=true&theme=radical&count_private=true" height="150" alt="MoAhmed2004's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoAhmed2004&layout=compact&theme=radical" height="150" alt="Top Languages" />
+</div>
+
+---
+
+### 🚀 Key Projects
+
+* **🔐 Secure Login System:** A robust authentication system featuring SHA-256 hashing, AES/RSA encryption, and password strength validation.
+* **🗣️ Voice-Based RBAC:** Role-Based Access Control system implemented via voice commands using Python.
+* **🎬 Movies App:** An application designed to list and recommend movies based on user preferences using dynamic data handling.
+
+---
+
+### 📫 Connect with me
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mohamedahmed2004)
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:mohameddedoahmed@gmail.com)
+
+<br />

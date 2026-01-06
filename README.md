@@ -62,7 +62,12 @@ I have a unique dual focus: building robust mobile applications with **Flutter**
 
 ### 📫 Connect with me
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mohamed-ahmed2004/)
-[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:mohameddedoahmed@gmail.com)
+<p align="left">
+<a href="https://www.linkedin.com/in/mohamed-ahmed2004/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mohamed-ahmed2004" />
+</a>
+<a href="mailto:mohameddedoahmed@gmail.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mohameddedoahmed@gmail.com" />
+</a>
+</p>
 
-<br />

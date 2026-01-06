@@ -1,7 +1,7 @@
 # Hi there, I'm Mohamed Ahmed! 👋
 ### 🛡️ Cybersecurity Specialist | 📱 Flutter Developer | 🎓 3rd Year CS Student
 
-I am a **Third-Year Computer Science & AI student** (Major in Cybersecurity) and a current trainee at the **Digital Egypt Pioneers Initiative (DEPI)** specializing in the **Vulnerability Analyst & Penetration Testing** track.
+I am a **Third-Year Computer Science student** (Major in Cybersecurity) and a current trainee at the **Digital Egypt Pioneers Initiative (DEPI)** specializing in the **Vulnerability Analyst & Penetration Testing** track.
 I have a unique dual focus: building robust mobile applications with **Flutter** and securing systems through **Red Teaming** and **Malware Analysis**.
 
 - 🔭 I’m currently analyzing malware behavior and building secure mobile apps.

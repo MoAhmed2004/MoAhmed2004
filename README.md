@@ -3,7 +3,6 @@
 
 I am a senior Computer Science student specializing in **Cybersecurity**, with a strong focus on **Offensive Security (Red Teaming)** and **Penetration Testing**. I love building security tools with **Python** and exploring Network Security.
 
-- 🔭 I’m currently working on **Advanced Python Security Tools & Malware Analysis**.
 - 📚 I’m currently learning **Advanced Red Teaming Tactics & eJPTv2**.
 - 🛠️ I’m looking to collaborate on **Open Source Security Projects**.
 - 📍 Based in **Cairo, Egypt**.

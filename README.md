@@ -35,15 +35,6 @@ I am a senior Computer Science student specializing in **Cybersecurity**, with a
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoAhmed2004&show_icons=true&theme=radical&count_private=true" height="150" alt="MoAhmed2004's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoAhmed2004&layout=compact&theme=radical" height="150" alt="Top Languages" />
-</div>
-
----
-
 ### 🚀 Key Projects
 
 * **🔐 Secure Login System:** A robust authentication system featuring SHA-256 hashing, AES/RSA encryption, and password strength validation.

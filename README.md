@@ -13,14 +13,14 @@ I have a unique dual focus: building robust mobile applications with **Flutter**
 
 ###  Tech Stack & Tools
 
-** Mobile Development**
+**Mobile Development**
 <br>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
 
-** Cybersecurity & Networking**
+**Cybersecurity & Networking**
 <br>
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
@@ -28,7 +28,7 @@ I have a unique dual focus: building robust mobile applications with **Flutter**
 <img src="https://img.shields.io/badge/OSINT-Sherlock-red?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 
-** Languages & Backend**
+**Languages & Backend**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -40,14 +40,14 @@ I have a unique dual focus: building robust mobile applications with **Flutter**
 ###  Key Projects
 
 ####  Mobile Development (Flutter)
-* ** MovieNest:** A full-featured movie browsing app built with **Clean Architecture**, featuring API integration and secure local storage.
-* ** Islamic App:** A comprehensive app including Quran, Ahadith, and Praises, supporting localization (Arabic/English).
-* ** Face Detection App:** Real-time face detection application using ML Kit integration.
+* **MovieNest:** A full-featured movie browsing app built with **Clean Architecture**, featuring API integration and secure local storage.
+* **Islamic App:** A comprehensive app including Quran, Ahadith, and Praises, supporting localization (Arabic/English).
+* **Face Detection App:** Real-time face detection application using ML Kit integration.
 
 ####  Cybersecurity
-* ** Multi-Layer Security System:** A Python tool implementing a **3-layer encryption architecture** (DES, AES, RSA) combined with SHA-256 for secure data protection.
-* ** ZeroAccess Malware Analysis:** Advanced analysis using **Volatility** & **Wireshark**, extracting IoCs mapped to the MITRE ATT&CK framework.
-* ** DarkWebX (OSINT):** Utilized tools like Sherlock & theHarvester to analyze data breaches and reduce digital footprints.
+* **Multi-Layer Security System:** A Python tool implementing a **3-layer encryption architecture** (DES, AES, RSA) combined with SHA-256 for secure data protection.
+* **ZeroAccess Malware Analysis:** Advanced analysis using **Volatility** & **Wireshark**, extracting IoCs mapped to the MITRE ATT&CK framework.
+* **DarkWebX (OSINT):** Utilized tools like Sherlock & theHarvester to analyze data breaches and reduce digital footprints.
 
 ---
 

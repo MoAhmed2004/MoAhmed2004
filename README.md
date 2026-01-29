@@ -25,7 +25,7 @@ I have a unique dual focus: building robust mobile applications with **Flutter**
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
 <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/OSINT-Sherlock-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OSINT-red?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
 
 **Languages & Backend**

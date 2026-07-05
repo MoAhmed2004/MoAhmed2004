@@ -63,7 +63,7 @@ I have a unique dual focus: building robust mobile applications with **Flutter**
 ### 📫 Connect with me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/mohamed-ahmed2004/" target="blank">
+<a href="https://www.linkedin.com/in/mohamedahmed2004/" target="blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="mohamed-ahmed2004" />
 </a>
 <a href="mailto:mohameddedoahmed@gmail.com" target="blank">
